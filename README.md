@@ -10,11 +10,11 @@ Welcome to our collection of interactive and educational games! Here, you'll fin
 
 1. [Learning Games](#learning-games-)
    
-   a.COVID-19 Safety Test
+   a. COVID-19 Safety Test
    
-   b.Math Game
+   b. Math Game
    
-   c.Vocabulary Game
+   c. Vocabulary Game
    
 3. [Tic Tac Toe](#tic-tac-toe-)
 4. [Typing Test](#typing-test-)
