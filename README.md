@@ -2,7 +2,7 @@
 
 # Fun and Learning Games Collection 🎮 📚
 
-Welcome to our collection of interactive and educational games! Here, you'll find a variety of games designed to both entertain and educate. Dive in and enjoy learning through play!
+Welcome to Learnify, a collection of interactive and educational games! Learnify was created by my team during Hunter College's 2021 Girls Who Code hackathon, where we won 2nd place! Here, you'll find a variety of games designed to both entertain and educate.
 
 ---
 
