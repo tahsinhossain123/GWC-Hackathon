@@ -5,7 +5,6 @@
 Welcome to our collection of interactive and educational games! Here, you'll find a variety of games designed to both entertain and educate. Dive in and enjoy learning through play!
 
 ---
----
 
 ## Website
 
