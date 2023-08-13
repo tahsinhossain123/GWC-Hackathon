@@ -33,8 +33,8 @@ Check out our game website for kids: **[Learnify: Game Website for Kids](https:/
 ## Learning Games 📚
 
 - **COVID-19 Safety Test**: Test your knowledge on the best safety practices during the pandemic.
-- **Math Game**: Strengthen your math skills with exciting problems and puzzles.
-- **Vocabulary Game**: Expand your vocabulary while having fun with our word challenges.
+- **Math Game**: Strengthen your math skills with a simple math game.
+- **Vocabulary Game**: Expand your vocabulary by matching words to pictures.
 
 ---
 
