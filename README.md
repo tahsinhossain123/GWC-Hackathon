@@ -2,7 +2,7 @@
 
 # Fun and Learning Games Collection 🎮 📚
 
-Welcome to Learnify, a collection of interactive and educational games! Learnify was created by my team during Hunter College's 2021 Girls Who Code hackathon, where we won 2nd place! Here, you'll find a variety of games designed to both entertain and educate.
+Welcome to Learnify, a collection of interactive and educational games! Learnify was created by my team during Hunter College's 2021 Girls Who Code hackathon, where we won 2nd place! Here, you'll find a variety of games designed to both entertain and educate Elementary School students.
 
 ---
 
@@ -33,7 +33,7 @@ Check out our game website for kids: **[Learnify: Game Website for Kids](https:/
 
 - **COVID-19 Safety Test**: Test your knowledge on the best safety practices during the pandemic.
 - **Math Game**: Strengthen your math skills with a simple math game.
-- **Vocabulary Game**: Expand your vocabulary by matching words to pictures.
+- **Vocabulary Game**: Expand your vocabulary by matching pictures to words.
 
 ---
 
