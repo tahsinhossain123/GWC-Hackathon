@@ -14,19 +14,18 @@ Check out our game website for kids: **[Learnify: Game Website for Kids](https:/
 
 
 ## Table of Contents
+1. [Tic Tac Toe](https://gwc-hackathon1.glitch.me/tictactoe.html)
+2. [Typing Test](https://gwc-hackathon1.glitch.me/typingtest.html)
+3. [Rock-Paper-Scissors](https://gwc-hackathon1.glitch.me/rockpaperscissors.html)
 
-1. [Learning Games](#learning-games-)
+4. [Learning Games]
    
-   a. COVID-19 Safety Test
+   a. [COVID-19 Safety Test](https://gwc-hackathon1.glitch.me/COVID%20game.html)
    
-   b. Math Game
+   b. [Math Game](https://gwc-hackathon1.glitch.me/Simple%20Math%20Game.html)
    
-   c. Vocabulary Game
+   c. [Vocabulary Game](https://gwc-hackathon1.glitch.me/vocab.html)
    
-3. [Tic Tac Toe](#tic-tac-toe-)
-4. [Typing Test](#typing-test-)
-5. [Rock-Paper-Scissors](#rock-paper-scissors-)
-
 
 ---
 
