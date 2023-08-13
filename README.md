@@ -9,6 +9,7 @@ Welcome to our collection of interactive and educational games! Here, you'll fin
 ## Table of Contents
 
 1. [Learning Games](#learning-games-)
+2. 
    a.COVID-19 Safety Test
    b.Math Game
    c.Vocabulary Game
